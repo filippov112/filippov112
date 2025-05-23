@@ -1,5 +1,6 @@
-## Hi there 👋
+Hello! 👋 I'm Ilya - a beginner .NET and Python developer
 
+I'm passionate about software development and am constantly developing in the backend areas using C# and Python. I'm looking for opportunities to apply my knowledge and gain practical experience in real projects.
 <!--
 **filippov112/filippov112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
