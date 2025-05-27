@@ -28,12 +28,11 @@ I'm passionate about software development and developing in backend areas using 
 
 ## 🚀 Я на GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippov112&show_icons=true&theme=default)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=твое_имя&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=filippov112я&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твое_имя&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippov112&layout=compact)
 
 ---
 
