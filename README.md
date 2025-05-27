@@ -28,11 +28,9 @@ I'm passionate about software development and developing in backend areas using 
 
 ## 🚀 Я на GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippov112&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippov112&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippov112&layout=compact)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filippov112&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippov112&layout=compact)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filippov112&theme=github-compact)
 
 ---
 
