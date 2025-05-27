@@ -30,7 +30,7 @@ I'm passionate about software development and developing in backend areas using 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filippov112&show_icons=true&theme=default)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=filippov112я&theme=default)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=filippov112&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filippov112&layout=compact)
 
