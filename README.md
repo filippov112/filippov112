@@ -15,15 +15,15 @@
 **Expert in business logic development, integrations and working with legacy code**
 
 #### 💡 **Key skills:**
-✅ **Backend development** – complex business logic, calculations, integrations (API, file exchanges, registries)
-✅ **Databases** – deep experience with PostgreSQL, MS SQL (query optimization, migrations)
-✅ **Legacy code** – analysis and refactoring of systems without documentation, support and modernization
-✅ **Frontend** – Vue.js for corporate interfaces (admin panels, reports, forms)
-✅ **Tools** – Docker, GitLab CI/CD, Agile (working in a team of 40+ people)
+- ✅ **Backend development** – complex business logic, calculations, integrations (API, file exchanges, registries)
+- ✅ **Databases** – deep experience with PostgreSQL, MS SQL (query optimization, migrations)
+- ✅ **Legacy code** – analysis and refactoring of systems without documentation, support and modernization
+- ✅ **Frontend** – Vue.js for corporate interfaces (admin panels, reports, forms)
+- ✅ **Tools** – Docker, GitLab CI/CD, Agile (working in a team of 40+ people)
 
 #### 🏆 **Unique competencies:**
-🔹 **Customer focus** – ability to diagnose non-obvious problems
-🔹 **Flexibility** – experience working with proprietary languages ​​in a limited stack
+- 🔹 **Customer focus** – ability to diagnose non-obvious problems
+- 🔹 **Flexibility** – experience working with proprietary languages ​​in a limited stack
 
 #### 📌 **What can I do for you?**
 - **Develop/upgrade** an ERP system for your business
