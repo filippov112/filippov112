@@ -11,4 +11,4 @@
 
 ---
 
-Hello everyone! My name is Ilya and I am a programmer. I explore the world of IT and want to make this world a little better)
+I want to make this world a little better)
